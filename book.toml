@@ -6,4 +6,4 @@ src = "src"
 title = "問道"
 
 [output.html]
-theme = "navy"
+default-theme = "navy"
