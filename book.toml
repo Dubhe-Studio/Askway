@@ -1,0 +1,9 @@
+[book]
+authors = ["Gugle"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "問道"
+
+[output.html]
+theme = "navy"
