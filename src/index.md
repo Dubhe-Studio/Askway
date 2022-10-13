@@ -19,18 +19,18 @@
   - [ ] **〖<font color=#0088ff>水</font> | <font color=#ff5555>火</font>〗蒸发**
   - [ ] **〖<font color=#0088ff>水</font> | <font color=#00ff00>木</font>〗萌发**
   - [ ] **〖<font color=#0088ff>水</font> | <font color=#8800ee>雷</font>〗感电**
-  - [ ] **〖<font color=#0088ff>水</font> | <font color=#00ffff>冰</font>〗冻结**
+  - [ ] **〖<font color=#0088ff>水</font> | <font color=#aaffff>冰</font>〗冻结**
   - [ ] **〖<font color=#ff5555>火</font> | <font color=#00ff00>木</font>〗焚烧**
   - [ ] **〖<font color=#ff5555>火</font> | <font color=#8800ee>雷</font>〗爆炸**
-  - [ ] **〖<font color=#ff5555>火</font> | <font color=#00ffff>冰</font>〗融化**
+  - [ ] **〖<font color=#ff5555>火</font> | <font color=#aaffff>冰</font>〗融化**
   - [ ] **〖<font color=#00ff00>木</font> | <font color=#b77b00>土</font>〗生长**
   - [ ] **〖<font color=#8800ee>雷</font> | <font color=#ffffff>金</font>〗导通**
   - [ ] **〖<font color=#b77b00>土</font> | <font color=#ffffff>金</font>〗护盾**
   - [ ] **特殊情况：**
     - [ ] <font color=#ffffff>**金**</font>元素与<font color=#ff5555>**火**</font>、<font color=#8800ee>**雷**</font>
-    、<font color=#00ffff>**冰**</font>反应时将生成对应元素的护盾
+    、<font color=#aaffff>**冰**</font>反应时将生成对应元素的护盾
     - [ ] <font color=#b77b00>**土**</font>元素与<font color=#ff5555>**火**</font>、<font color=#8800ee>**雷**</font>
-    、<font color=#00ffff>**冰**</font>反应时将降低其元素威力
+    、<font color=#aaffff>**冰**</font>反应时将降低其元素威力
 
 - ### 元素 | Elements
   - [ ] [<font color=#ffffff>**〖兑 ☱〗金 | Metal**</font>](./element/elements/Metal.md)
@@ -39,8 +39,8 @@
   - [ ] [<font color=#ff5555>**〖离 ☲〗火 | Fire**</font>](element/elements/Fire.md)
   - [ ] [<font color=#b77b00>**〖坤 ☷〗土 | Earth**</font>](element/elements/Earth.md)
   - [ ] [<font color=#8800ee>**〖震 ☳〗雷 | Thunder**</font>](element/elements/Thunder.md)
-  - [ ] [<font color=#00ffff>**〖乾 ☰〗冰 | Freeze**</font>](element/elements/Freeze.md)
-  - [ ] [<font color=#00ddaa>**〖巽 ☴〗风 | Wind**</font>](element/elements/Wind.md)
+  - [ ] [<font color=#aaffff>**〖乾 ☰〗冰 | Freeze**</font>](element/elements/Freeze.md)
+  - [ ] [<font color=#00ffbb>**〖巽 ☴〗风 | Wind**</font>](element/elements/Wind.md)
 
 ## [法术 | Magic](./magic/Magic.md)
 
@@ -62,5 +62,5 @@
   - [ ] [<font color=#ff5555>**燃烧 | Burn**</font>](./magic/magics/Burn.md)
   - [ ] [<font color=#b77b00>**陨星 | Meteor**</font>](./magic/magics/Meteor.md)
   - [ ] [<font color=#8800ee>**雷引 | Lightning**</font>](./magic/magics/Lightning.md)
-  - [ ] [<font color=#00ffff>**冻结 | Frozen**</font>](./magic/magics/Frozen.md)
-  - [ ] [<font color=#00ddaa>**龙卷 | Tornado**</font>](./magic/magics/Tornado.md)
+  - [ ] [<font color=#aaffff>**冻结 | Frozen**</font>](./magic/magics/Frozen.md)
+  - [ ] [<font color=#00ffbb>**龙卷 | Tornado**</font>](./magic/magics/Tornado.md)

@@ -17,8 +17,8 @@
       - [<font color=#ff5555>**〖离 ☲〗火 | Fire**</font>](element/elements/Fire.md)
       - [<font color=#b77b00>**〖坤 ☷〗土 | Earth**</font>](element/elements/Earth.md)
       - [<font color=#8800ee>**〖震 ☳〗雷 | Thunder**</font>](element/elements/Thunder.md)
-      - [<font color=#00ffff>**〖乾 ☰〗冰 | Freeze**</font>](element/elements/Freeze.md)
-      - [<font color=#00ddaa>**〖巽 ☴〗风 | Wind**</font>](element/elements/Wind.md)
+      - [<font color=#aaffff>**〖乾 ☰〗冰 | Freeze**</font>](element/elements/Freeze.md)
+      - [<font color=#00ffbb>**〖巽 ☴〗风 | Wind**</font>](element/elements/Wind.md)
 
 - [法术 | Magic](./magic/Magic.md)
   - [设定 | Settings](./magic/Magic.md)
@@ -32,5 +32,5 @@
       - [<font color=#ff5555>**燃烧 | Burn**</font>](./magic/magics/Burn.md)
       - [<font color=#b77b00>**陨星 | Meteor**</font>](./magic/magics/Meteor.md)
       - [<font color=#8800ee>**雷引 | Lightning**</font>](./magic/magics/Lightning.md)
-      - [<font color=#00ffff>**冻结 | Frozen**</font>](./magic/magics/Frozen.md)
-      - [<font color=#00ddaa>**龙卷 | Tornado**</font>](./magic/magics/Tornado.md)
+      - [<font color=#aaffff>**冻结 | Frozen**</font>](./magic/magics/Frozen.md)
+      - [<font color=#00ffbb>**龙卷 | Tornado**</font>](./magic/magics/Tornado.md)
